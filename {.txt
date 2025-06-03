@@ -1,0 +1,11 @@
+{
+    "nome":"vitor",
+    "preco":"2.0000",
+    "quantidade":"1"
+}
+
+{
+    "nome": "vitr",
+    "cargo": "2.00300",
+    "idade": 1
+}
